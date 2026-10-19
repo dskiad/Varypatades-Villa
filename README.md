@@ -2,6 +2,6 @@
 
 ## Live page
 
-[Corfu Varypatades Villa](https://corfu-house-219.dskiad.chatgpt.site)
+[Corfu Varypatades Villa](https://dskiad.github.io/Varypatades-Villa/) — deployed automatically by GitHub Pages on every push to `main`.
 
-The live page currently requires owner access.
+Previous preview: [corfu-house-219.dskiad.chatgpt.site](https://corfu-house-219.dskiad.chatgpt.site) (requires owner access).
